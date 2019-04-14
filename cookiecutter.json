@@ -1,0 +1,8 @@
+{
+    "project_slug": "repo slug",
+    "title": "title",
+    "author": "state your name",
+    "description": "project description",
+    "module_name": "valid python module name",
+    "open_source_license": ["MIT", "BSD-3-Clause", "Unlicense", "No license file"]
+}
